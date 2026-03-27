@@ -38,3 +38,5 @@ venv/
 Thumbs.db
 # AWS
 .aws/
+
+versions.tf.backup
